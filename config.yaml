@@ -1,7 +1,8 @@
 baseURL: https://zhangdabiao.xyz
 languageCode: en-us
-title: Vanilla
+title: Dabiao's Blog
 theme: vanilla-bootstrap-hugo-theme
+disqusShortname: dabiaos-blog
 # googleAnalytics: UA-123456789-1
 
 taxonomies:
