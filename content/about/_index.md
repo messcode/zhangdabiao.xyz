@@ -1,6 +1,5 @@
-+++
-title = "About"
+---
+title: About
+---
 
-+++
-
-Welcome! This is my blog.
+Learn by writing! You may look around.
