@@ -1,8 +1,19 @@
 ---
 title: "用 Python 实现换脸"
-date: 2020-06-26T23:30:11-07:00
-tags: ["Python", "CV"]
-draft: false
+date: "2020-06-26"
+mathjax: true
+sidebar: "right" # Enable sidebar (on the right side) per page
+widgets: # Enable sidebar widgets in given order per page
+  - "search"
+  - "recent"
+  - "taglist"
+categories:
+    - "Machine Learning"
+tags: 
+    - "Python"
+    - "CV"
+isCJKLanguage: true
+comments: true
 ---
 
 > 这篇博客的算法和代码主要是依据这篇文章：[Switching Eds: Face swapping with Python, dlib, and OpenCV](https://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
